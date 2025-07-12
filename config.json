@@ -1,0 +1,30 @@
+{
+  "swapRepetitions": 5,
+  "addLpRepetitions": 2,
+  "randomAmountRanges": {
+    "ZIG_ORO": {
+      "ZIG": {
+        "min": 0.1,
+        "max": 0.4
+      },
+      "ORO": {
+        "min": 0.01,
+        "max": 0.04
+      }
+    },
+    "ZIG_BEE": {
+      "ZIG": {
+        "min": 0.1,
+        "max": 0.2
+      },
+      "BEE": {
+        "min": 0.001,
+        "max": 0.003
+      }
+    }
+  },
+  "addLpOroRange": {
+    "min": 0.1,
+    "max": 0.5
+  }
+}
